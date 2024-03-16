@@ -1,7 +1,5 @@
 # WeatherAPI.com Data Retrieval with Node.js
 
-![WeatherAPI.com Logo](WeatherAPI.com) <!-- Ganti dengan logo atau gambar yang relevan -->
-
 ## Deskripsi
 
 Ini adalah repository Node.js sederhana yang bertujuan untuk mendapatkan data cuaca dari WeatherAPI.com. Dengan menggunakan kode ini, Anda dapat dengan mudah mengintegrasikan data cuaca ke dalam proyek Node.js Anda.
