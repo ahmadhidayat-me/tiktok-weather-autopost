@@ -1,6 +1,6 @@
 var axios = require("axios");
 
-var API_KEY = "678c0342aa9c47d5a2010918241503"; // Replace this with your WeatherAPI API key
+var API_KEY = ""; // Replace this with your WeatherAPI API key
 const time = ["00:05", "06:00", "07:00", "11:00", "12:00", "13:00", "15:00", "18:00", "19:00"];
 
 const getWeather = async (LOCATION) => {
