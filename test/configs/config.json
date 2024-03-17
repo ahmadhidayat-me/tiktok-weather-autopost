@@ -1,0 +1,23 @@
+{
+   "cron_schedule": "0 3 * * *",
+      "cities": [
+         {
+            "name": "Jakarta",
+            "post_times": ["05:00", "11:00", "18:00"],
+            "weather_timings": [
+               { "weather_hours": [5, 6, 7] },
+               { "weather_hours": [11,12,13] },
+               { "weather_hours": [18,19,20] }
+            ]
+         },
+         {
+            "name": "New York",
+            "post_times": ["05:00", "11:00", "18:00"],
+            "weather_timings": [
+               { "weather_hours": [5, 6, 7] },
+               { "weather_hours": [11,12,13] },
+               { "weather_hours": [18,19,20] }
+            ]
+         }
+      ]
+}

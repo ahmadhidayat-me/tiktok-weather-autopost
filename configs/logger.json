@@ -1,0 +1,6 @@
+{
+    "maxSize": "100m",
+    "maxDays": "7d",
+    "showConsoleLog": true
+}
+

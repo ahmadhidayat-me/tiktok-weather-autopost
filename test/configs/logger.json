@@ -1,0 +1,7 @@
+{
+    "logFolder": ".//logs//",
+    "logFile": "logs-%LEVEL%-%DATE%.log",
+    "maxSize": "5g",
+    "maxDays": "7d",
+    "consoleLog": false
+}
